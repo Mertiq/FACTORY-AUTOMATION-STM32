@@ -16,7 +16,7 @@ For testing this project you should set up an electrical circuit.
 
 ## Built With
 
-* [C] - Used to code all things.
+* [C]() - Used to code all things.
 * [CUBE MX](https://www.st.com/en/development-tools/stm32cubemx.html) - Used to load the project in STM32 Microcontroller. 
 
 ## Acknowledgments
